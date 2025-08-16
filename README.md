@@ -1,23 +1,4 @@
 ```markdown
-## 📂 Project Structure
-```
-
-binarySearch/
-│── binarySearchUsingRecursiveMethod.js   # Recursive implementation
-│── binarySearchUsingIterativeMethod.js   # Iterative implementation
-│── README.md                             # Documentation
-│── images/                               # Diagrams, screenshots, etc.
-│     ├── RecursiveImg.png
-│     └── IterativeImg.png
-
-```
-```
-
----
-
-### ✅ Complete Corrected README (with working code block)
-
-```markdown
 # 🔍 Binary Search (Recursive vs Iterative)
 
 This project demonstrates the **Binary Search** algorithm implemented in two different ways:
