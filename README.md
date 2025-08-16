@@ -13,17 +13,16 @@ The goal is to compare:
 - **Code structure**
 
 
-
 ---
 
 ## 📂 Project Structure
 
 ```
 binarySearch/
-│── binarySearchUsingRecursiveMethod.js # Recursive implementation
-│── binarySearchUsingIterativeMethod.js # Iterative implementation
-│── README.md # Documentation
-│── images/ # Diagrams, screenshots, etc.
+│── binarySearchUsingRecursiveMethod.js   # Recursive implementation
+│── binarySearchUsingIterativeMethod.js   # Iterative implementation
+│── README.md                             # Documentation
+│── images/                               # Diagrams, screenshots, etc.
 │ ├── RecursiveImg.png
 │ └── IterativeImg.png
 
@@ -33,7 +32,7 @@ binarySearch/
 
 ## ⚡ How to Run
 
-```
+
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
 bash
@@ -48,7 +47,7 @@ node binarySearchUsingRecursiveMethod.js
 
 # Run Iterative version
 node binarySearchUsingIterativeMethod.js
-````
+
 
 ---
 
