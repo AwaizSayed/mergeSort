@@ -117,11 +117,3 @@ Found at index: 4
 🔗 [GitHub Profile](https://github.com/AwaizSayed)
 
 ````
-
----
-
-👉 Just make sure you have those **three backticks (```)** before and after the folder structure.  
-That’s what makes GitHub render it in a nice monospaced code block.  
-
-Do you want me to also **add syntax highlighting** (like ` ```bash `) for the project structure so it looks even cleaner?
-````
