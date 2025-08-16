@@ -1,4 +1,4 @@
-```markdown
+```
 # 🔍 Binary Search (Recursive vs Iterative)
 
 This project demonstrates the **Binary Search** algorithm implemented in two different ways:
