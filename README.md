@@ -1,6 +1,6 @@
 ## 🔍 Binary Search (Recursive vs Iterative)
 
-```
+
 This project demonstrates the **Binary Search** algorithm implemented in two different ways:
 
 - **Recursive Binary Search**
@@ -12,7 +12,7 @@ The goal is to compare:
 - **Space complexity**
 - **Code structure**
 
-```
+
 
 ---
 
