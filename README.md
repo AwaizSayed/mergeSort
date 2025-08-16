@@ -1,3 +1,40 @@
+Aha ✅ I see the problem clearly now.
+
+The **Project Structure** block isn’t being rendered as a code block because in your file you wrote:
+
+```
+## 📂 Project Structure
+binarySearch/ │── binarySearchUsingRecursiveMethod.js ...
+```
+
+But you **forgot the triple backticks (\`\`\`) immediately after the heading**.
+Without them, GitHub treats it like normal text.
+
+---
+
+### 🔧 Fixed Section
+
+Here’s how it must look:
+
+```markdown
+## 📂 Project Structure
+```
+
+binarySearch/
+│── binarySearchUsingRecursiveMethod.js   # Recursive implementation
+│── binarySearchUsingIterativeMethod.js   # Iterative implementation
+│── README.md                             # Documentation
+│── images/                               # Diagrams, screenshots, etc.
+│     ├── RecursiveImg.png
+│     └── IterativeImg.png
+
+```
+```
+
+---
+
+### ✅ Complete Corrected README (with working code block)
+
 ```markdown
 # 🔍 Binary Search (Recursive vs Iterative)
 
@@ -18,12 +55,12 @@ The goal is to compare:
 ```
 
 binarySearch/
-│── binarySearchUsingRecursiveMethod.js # Recursive implementation
-│── binarySearchUsingIterativeMethod.js # Iterative implementation
-│── README.md # Documentation
-│── images/ # Diagrams, screenshots, etc.
-│ ├── RecursiveImg.png
-│ └── IterativeImg.png
+│── binarySearchUsingRecursiveMethod.js   # Recursive implementation
+│── binarySearchUsingIterativeMethod.js   # Iterative implementation
+│── README.md                             # Documentation
+│── images/                               # Diagrams, screenshots, etc.
+│     ├── RecursiveImg.png
+│     └── IterativeImg.png
 
 ````
 
@@ -85,9 +122,9 @@ Found at index: 4
 
 ## 🚀 Future Improvements
 
-- Add performance benchmarks on very large datasets
-- Handle cases with duplicate elements
-- Add visualization of search steps
+* Add performance benchmarks on very large datasets
+* Handle cases with duplicate elements
+* Add visualization of search steps
 
 ---
 
@@ -96,3 +133,13 @@ Found at index: 4
 **Awaiz Sayed**
 📧 [sawaiz2004@gmail.com](mailto:sawaiz2004@gmail.com)
 🔗 [GitHub Profile](https://github.com/AwaizSayed)
+
+````
+
+---
+
+👉 Just make sure you have those **three backticks (```)** before and after the folder structure.  
+That’s what makes GitHub render it in a nice monospaced code block.  
+
+Do you want me to also **add syntax highlighting** (like ` ```bash `) for the project structure so it looks even cleaner?
+````
