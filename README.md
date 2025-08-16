@@ -40,7 +40,7 @@ bash
 git clone https://github.com/AwaizSayed/mergeSort.git
 
 # Move into project folder
-cd mergeSort   # (or binarySearch if renamed)
+cd binarySearch
 
 # Run Recursive version
 node binarySearchUsingRecursiveMethod.js
