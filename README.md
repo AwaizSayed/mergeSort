@@ -27,6 +27,7 @@ binarySearch/
 
 ````
 
+
 ---
 
 ## ⚡ How to Run
@@ -44,7 +45,7 @@ node binarySearchUsingRecursiveMethod.js
 
 # Run Iterative version
 node binarySearchUsingIterativeMethod.js
-````
+
 
 ---
 
