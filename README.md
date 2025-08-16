@@ -97,6 +97,4 @@ Found at index: 4
 ## 👨‍💻 Author
 
 **Awaiz Sayed**
-📧 [sawaiz2004@gmail.com](mailto:sawaiz2004@gmail.com)
-
-🔗 [GitHub Profile](https://github.com/AwaizSayed)
+📧 [sawaiz2004@gmail.com](mailto:sawaiz2004@gmail.com) 🔗 [GitHub Profile](https://github.com/AwaizSayed)
