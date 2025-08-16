@@ -1,7 +1,3 @@
-can you please update it and give it to me
-
-whole
-
 ```markdown
 # 🔍 Binary Search (Recursive vs Iterative)
 
