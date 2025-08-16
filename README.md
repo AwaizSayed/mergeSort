@@ -1,4 +1,4 @@
-```markdown
+```
 # 🔍 Binary Search (Recursive vs Iterative)
 
 This project demonstrates the **Binary Search** algorithm implemented in two different ways:
@@ -11,6 +11,8 @@ The goal is to compare:
 - **Execution time**
 - **Space complexity**
 - **Code structure**
+
+```
 
 ---
 
@@ -29,10 +31,11 @@ binarySearch/
 
 ---
 
+```
 ## ⚡ How to Run
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
-```bash
+bash
 # Clone this repo
 git clone https://github.com/AwaizSayed/mergeSort.git
 
