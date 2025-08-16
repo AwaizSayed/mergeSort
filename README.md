@@ -74,7 +74,7 @@ Found at index: 4
 
 ---
 
-## 🖼️ Diagrams
+## 🖼️ Screenshots
 
 ### Recursive Binary Search
 
@@ -98,4 +98,5 @@ Found at index: 4
 
 **Awaiz Sayed**
 📧 [sawaiz2004@gmail.com](mailto:sawaiz2004@gmail.com)
+
 🔗 [GitHub Profile](https://github.com/AwaizSayed)
