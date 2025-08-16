@@ -1,6 +1,6 @@
-```
-# 🔍 Binary Search (Recursive vs Iterative)
+## 🔍 Binary Search (Recursive vs Iterative)
 
+```
 This project demonstrates the **Binary Search** algorithm implemented in two different ways:
 
 - **Recursive Binary Search**
@@ -17,8 +17,8 @@ The goal is to compare:
 ---
 
 ## 📂 Project Structure
-```
 
+```
 binarySearch/
 │── binarySearchUsingRecursiveMethod.js # Recursive implementation
 │── binarySearchUsingIterativeMethod.js # Iterative implementation
@@ -31,8 +31,9 @@ binarySearch/
 
 ---
 
-```
 ## ⚡ How to Run
+
+```
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
 bash
