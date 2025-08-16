@@ -1,21 +1,3 @@
-Aha ✅ I see the problem clearly now.
-
-The **Project Structure** block isn’t being rendered as a code block because in your file you wrote:
-
-```
-## 📂 Project Structure
-binarySearch/ │── binarySearchUsingRecursiveMethod.js ...
-```
-
-But you **forgot the triple backticks (\`\`\`) immediately after the heading**.
-Without them, GitHub treats it like normal text.
-
----
-
-### 🔧 Fixed Section
-
-Here’s how it must look:
-
 ```markdown
 ## 📂 Project Structure
 ```
